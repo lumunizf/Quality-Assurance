@@ -44,6 +44,58 @@ Categorizei os artefatos para facilitar a busca por mais informações e seus ex
     * Casos de teste
     * Gestão de falhas
 
+ - [ ] Indicadores de qualidade
+
+    * Relatório de execução manual
+    * Relatório de execução automatizada
+    * Relatório de incidentes
+    * Relatório de Log de teste
+
+## Ferramentas
+
+ - [X] Ferramentas de apoio aos testes
+
+    * [Geradores de massa de dados](https://github.com/lumunizf/Quality-Assurance/wiki/Massa-de-dados)
+    * Ferramentas de captura
+    * Jira / Azure
+
+
+ - [X] Frameworks
+
+    * [BDD (Gherkin)](https://github.com/lumunizf/BDD#gherkin)
+    * [Cucumber](https://github.com/lumunizf/BDD#cucumber)
+    * [Specflow](https://github.com/lumunizf/BDD#specflow)
+
+ - [ ] Ferramentas de automação
+
+    * Selenium Webdriver <precisa atualizar a página no wiki para fazer o link>
+    * [Katalon Studio](https://www.katalon.com/) -> atualizar tbm a página na wiki com mais informações do Katalon
+    * Capybara <precisa atualizar o README do repositório Ruby (+ técnico) ou a página no wiki para fazer o link para lá>
+    * ...
+
+## Automação (pode ser links para os demais repositórios)
+
+ - [ ] Projeto de automação de teste com Selenium Webdriver e Java <link para o repositório>
+ - [ ] Automação com BDD com o Capybara e Ruby <link para o repositório>
+
+## Artigos
+
+ - [X] Artigos
+
+    * [O que aprendi em uma década de Scrum](https://www.linkedin.com/pulse/o-que-aprendi-em-um-d%C3%A9cada-de-scrum-luciana/)
+    * [Anatomia de um Plano de teste](http://a-escrever)
+    * [Critérios para classificação de bugs](http://a-escrever)
+
+## Glossário
+
+Reuni nesta página os principais termos utilizados pelas equipes de QA das quais participei e no mercado de trabalho em geral.
+
+ - [Glossário](https://github.com/lumunizf/Quality-Assurance/wiki/Gloss%C3%A1rio)
+
+## Wiki
+
+Todos os tópicos deste repositório estão detalhados em maior profundidade e com exemplos de uso na [Wiki Quality Assurance.](https://github.com/lumunizf/Quality-Assurance/wiki)
+
 
 ## Contato
 

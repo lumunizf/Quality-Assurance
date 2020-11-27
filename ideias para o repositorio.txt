@@ -1,0 +1,32 @@
+
+https://github.com/lumunizf/Quality-Assurance.wiki.git
+
+Ideias para o repositório de QA
+
+ - Templates e textos em forma de artigos que explicam o uso destes templates e dão sentido e profundidade ao assunto.
+
+Por exemplo:
+
+Casos de teste: Há clientes e empresas que precisam ter os casos de teste mapeados, outras não. Particularmente eu os utilizo
+para me nortear e ter uma ideia de quanto ainda falta homologar.
+
+ - Experiência ao longo dos 13 anos de testes manuais
+
+ - Início do aprendizado com testes automatizados
+
+- Reunir os links de acesso a massa de dados (gerador de inscrição estadual, CPF, CNPJ para testes)
+
+- Também tem um curso da Udemy que eu tenho sobre geração de massa de dados (procurar e fazer, pode ter boas ideias por lá para aplicar no repositório)
+
+- Ver se tem como gerar massa de dados pelo banco de dados
+
+- Criar sessão “Massa de dados”
+
+- Acessar o blog https://take.net/blog/take-test/ tem muita informação sobre configuração do ambiente de teste com Selenium, JUnit e Eclipse
+
+- Outros links com informações:
+
+https://www.guj.com.br/t/caixas-de-listagem-dropw-down-e-selenium-webdriver/280607
+
+http://www.testesautomatizados.com.br/introducao-ao-selenium-ide/
+
